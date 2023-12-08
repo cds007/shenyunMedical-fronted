@@ -2,6 +2,8 @@
 
 深云是一个全流程 3D 医学影像分割平台，用于处理医学图像并生成精确的分割结果。我们提供了一套完整的工具和流程，使用户能够进行数据预处理、模型训练、训练可视化、模型评估、模型部署和后处理等操作，以实现全流程医学图像的自动分割。
 
+![image](https://github.com/cds007/shenyunMedical-fronted/blob/main/src/assets/img/shenyunlogo.jpg)
+
 ## 支持我们
 
 暂未开放赞助渠道
