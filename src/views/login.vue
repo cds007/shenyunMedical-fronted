@@ -1,7 +1,7 @@
 <template>
 	<div class="login-wrap">
 		<div class="ms-login">
-			<div class="ms-title">电子商务系统登录</div>
+			<div class="ms-title">深云项目管理中心登录</div>
 			<el-form :model="param" :rules="rules" ref="login" label-width="0px" class="ms-content">
 				<el-form-item prop="username">
 					<el-input v-model="param.username" placeholder="username">

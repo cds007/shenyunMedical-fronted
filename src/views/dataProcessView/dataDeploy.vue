@@ -113,3 +113,5 @@ const beforeRemove: UploadProps['beforeRemove'] = (uploadFile, uploadFiles) => {
   height: 40px;
 }
 </style>
+
+
